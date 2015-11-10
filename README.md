@@ -22,18 +22,18 @@ use "\Michelf\MarkdownExtraExtended";
 $my_html = MarkdownExtraExtended::defaultTransform($my_text);
 ```
 You may specify the language to highlight by applying one or more classnames to a code block like this:
-~~~
-```css
-h1 { font-size: 25pt; }
 ```
+~~~css
+h1 { font-size: 25pt; }
 ~~~
+```
 or
-~~~
-```{.html .php}
+```
+~~~{.html .php}
 <body>
   <?php echo content; ?>
 </body>
-```
 ~~~
+```
 
 
