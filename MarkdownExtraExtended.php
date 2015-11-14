@@ -1,13 +1,13 @@
 <?php
 /*
- * This class extents PHP Markdown Extra by Syntax Highlightning
+ * This class extents PHP Markdown Extra by Syntax Highlighting
  *
  * Please note:
  * This extension is tested against PHP Markdown Extra v. 1.5.0 only.
  *
  * Syntax Highlightning Class for PHP
  * Copyright (c) 2015 Stefan Liehmann
- * <http://limi.eu/projects/php/php_syntax_highlightning.html>
+ * <https://limi.eu/projects/php/php_syntax_highlighting.html>
  *
  * PHP Markdown Extra
  * Copyright (c) 2004-2015 Michel Fortin
